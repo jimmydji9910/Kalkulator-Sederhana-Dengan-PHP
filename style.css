@@ -1,0 +1,73 @@
+body{
+	background-color: aliceblue;
+	display: flex;
+	margin: 0px;
+	font-family: arial;
+	color: white;
+	font-size: 20pt;
+}
+.hasil{
+	margin: 30px 10px 30px 10px;
+	width: 95%;
+	height: 70px;
+	font-family: Digital-7 Mono;
+	color: black;
+	font-size: 50pt;
+	text-align: center;
+	border: none;
+	border-radius: 20px;
+	background-color: gainsboro;
+}
+.kotak{
+	margin-top: 100px;
+	margin-left:  35%;
+	width: 30%;
+	height: auto;
+	background-color: darkslategray;
+	border-radius: 20px;
+	border-color: white;
+	box-shadow: all;
+}
+.inputan{
+	margin: 10px;
+}
+.angka{
+	width: 48%;
+	height: 50px;
+	font-family: arial;
+	font-size: 20pt;
+	border: none;
+	border-radius: 5px;
+}
+.angka:hover{
+	background-color: ghostwhite;
+}
+.operator{
+	margin-top: 10px;
+	width: 99%;
+	height: 50px;
+	font-family: arial;
+	font-size: 20pt;
+	border: none;
+	border-radius: 5px;
+}
+.operator:hover{
+	background-color: ghostwhite;
+}
+.tombol{
+	margin-top: 25px;
+	width: 99%;
+	height: 50px;
+	font-family: arial black;
+	font-size: 20pt;
+	border: all;
+	border-width: 0.5px;
+	border-color: white;
+	border-radius: 30px;
+	background-color:  indianred;
+	color: black;
+}
+.tombol:hover{
+	background-color: maroon;
+	color: white;
+}
